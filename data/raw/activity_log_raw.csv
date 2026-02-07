@@ -1,3 +1,4 @@
+timestamp,mouse_distance,mouse_clicks,key_presses,active_window,window_switches,idle_time
 2026-02-06T14:06:21.884072,1081.97,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,0
 2026-02-06T14:13:29.372883,1980.72,1,0,features_engineering.py - nopretend_ai - Visual Studio Code,0,0
 2026-02-06T14:13:34.373369,0,0,14,● features_engineering.py - nopretend_ai - Visual Studio Code,1,0
@@ -129,3 +130,54 @@
 2026-02-06T15:06:49.561355,1659.43,2,0,WhatsApp,0,1
 2026-02-06T15:06:54.561783,5600.14,1,1,WhatsApp,0,0
 2026-02-06T15:06:59.562024,4405.38,4,0,activity_collector.py - nopretend_ai - Visual Studio Code,1,0
+2026-02-06T15:19:03.638087,2490.57,1,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,0
+2026-02-06T15:19:08.638704,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,5
+2026-02-06T15:19:13.638941,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,10
+2026-02-06T15:19:18.639594,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,15
+2026-02-06T15:19:23.640258,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,20
+2026-02-06T15:19:28.640977,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,25
+2026-02-06T15:19:33.641217,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,30
+2026-02-06T15:19:38.641867,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,35
+2026-02-06T15:19:43.642238,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,40
+2026-02-06T15:19:48.642970,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,45
+2026-02-06T15:19:53.643621,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,50
+2026-02-06T15:19:58.644103,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,55
+2026-02-06T15:20:03.644397,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,60
+2026-02-06T15:20:08.644698,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,65
+2026-02-06T15:20:13.645026,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,70
+2026-02-06T15:20:18.645713,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,75
+2026-02-06T15:20:23.646060,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,80
+2026-02-06T15:20:28.646583,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,85
+2026-02-06T15:20:33.647271,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,90
+2026-02-06T15:20:38.647815,17.12,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,0
+2026-02-06T15:20:43.648760,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,5
+2026-02-06T15:20:48.649182,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,10
+2026-02-06T15:20:53.649962,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,15
+2026-02-06T15:20:58.650490,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,20
+2026-02-06T15:21:03.650670,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,25
+2026-02-06T15:21:08.651177,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,30
+2026-02-06T15:21:13.651433,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,35
+2026-02-06T15:21:18.652002,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,40
+2026-02-06T15:21:23.652621,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,45
+2026-02-06T15:21:28.653019,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,50
+2026-02-06T15:21:33.653654,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,55
+2026-02-06T15:21:38.654016,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,60
+2026-02-06T15:21:43.654420,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,65
+2026-02-06T15:21:48.654832,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,70
+2026-02-06T15:21:53.655236,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,75
+2026-02-06T15:21:58.655660,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,80
+2026-02-06T15:22:03.656339,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,85
+2026-02-06T15:22:08.656659,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,90
+2026-02-06T15:22:13.657111,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,95
+2026-02-06T15:22:18.657630,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,100
+2026-02-06T15:22:23.658365,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,105
+2026-02-06T15:22:28.658906,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,110
+2026-02-06T15:22:33.659454,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,115
+2026-02-06T15:22:38.660262,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,120
+2026-02-06T15:22:43.660929,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,125
+2026-02-06T15:22:48.661139,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,130
+2026-02-06T15:22:53.661719,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,135
+2026-02-06T15:22:58.662143,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,140
+2026-02-06T15:23:03.662488,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,145
+2026-02-06T15:23:08.662694,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,150
+2026-02-06T15:23:13.663154,0,0,0,activity_collector.py - nopretend_ai - Visual Studio Code,0,155
